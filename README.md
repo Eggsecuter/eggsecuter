@@ -1,4 +1,4 @@
-### Welcome to [🥚 Eggsecuter](https://eggsecuter.com)
+# Welcome to [Eggsecuter](https://eggsecuter.com)
 
 ![General Stats](https://github-readme-stats.vercel.app/api?username=eggsecuter&count_private=true&show_icons=true&theme=codeSTACKr)
 
